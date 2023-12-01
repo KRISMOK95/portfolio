@@ -10,8 +10,13 @@
   max-width: 345px;
 }
 
+
 .image {
+  width: 300px; 
+  height: 200px; 
+  object-fit: cover; 
   margin-bottom: 26px;
+  border-radius: 8px;
 }
 
 .title {

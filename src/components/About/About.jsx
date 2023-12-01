@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/laptop.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -19,9 +19,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              • Experience in building responsive Web App and optimized sites.
               </p>
+              <p>• HTML5 / Tailwind CSS / JS / React / TypeScript / Angular / Vue.js / jQuery / ...</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -29,19 +29,21 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              • Experience developing fast and optimised back-end systems
+                and APIs.
               </p>
+              <p>• .Net Core / ASP.Net / Node.js / Django / Spring Boot / Flask / ... </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>UI/UX & Data engineer </h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              • Designed multiple landing pages and have created design
+                systems. Experience with big data for analytical,  operational uses and cloud development.
               </p>
+              <p>• Python / Java / MySQL / MongoDB / AWS / Azure / Figma / ... </p>
             </div>
           </li>
         </ul>

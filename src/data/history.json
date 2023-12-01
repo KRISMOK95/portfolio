@@ -1,29 +1,40 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Start-up Software Engineer",
+    "organisation": "AlphaQuantix Swiss",
+    "startDate": "Feb, 2021",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["AI-driven trading big dataanalysis algorithms (E.g. NLP / SQL / Algorithm)"],
+    "imageSrc": "history/AI1.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Technical Support Engineer",
+    "organisation": "BCIC Swiss GmbH",
+    "startDate": "Jun, 2022",
+    "endDate": "Present",
+    "experiences": ["front-end development / Human Machine Interface / Server implementation / API testing /hard and software Troubleshooting"],
+    "imageSrc": "history/bcic.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Software Developer",
+    "organisation": "SMC Corporation and ZHAW cooperation",
+    "startDate": "Feb, 2023",
+    "endDate": "Sep, 2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Full stack development",
+      "Industry 4.0 machine failure handling application"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/smc.png"
+  },
+  {
+    "role": "Software developer - Research",
+    "organisation": "ZHAW IMS Industrial 4.0 SmartPro laboratory",
+    "startDate": "Jan, 2021",
+    "endDate": "Feb, 2023",
+    "experiences": [
+      "Full stack development",
+      "AI/ML/DL systems development"
+    ],
+    "imageSrc": "history/zhaw1.png"
   }
 ]

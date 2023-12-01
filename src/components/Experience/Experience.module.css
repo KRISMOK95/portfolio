@@ -117,4 +117,11 @@
     width: 100%;
     gap: 9px;
   }
+
+  .historyItem img {
+    width: 20vw; 
+    max-width: 100px; 
+    height: auto;
+  }
+  
 }

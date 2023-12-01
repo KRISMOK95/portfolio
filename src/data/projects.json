@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Admin Dashboard",
+    "imageSrc": "projects/dashboard.png",
+    "description": "Developed user-friendly website dashboard, showcasing efficient data visualization and seamless navigation for enhanced user experience.",
+    "skills": ["React", "Next.js", "Node", "Tailwind CSS"],
+    "demo": "https://krismok95.github.io/Demo2/",
+    "source": "https://github.com/KRISMOK95/Demo2"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Responsive Website",
+    "imageSrc": "projects/atsolution.png",
+    "description": "Featuring dynamic content and a mobile-first UI / UX design approach, showcased in a live demo and accessible via CI/CD system",
+    "skills": ["React", "TypeScript", "Node", "Tailwind CSS"],
+    "demo": "https://krismok95.github.io/Demo1/",
+    "source": "https://github.com/KRISMOK95/Demo1"
   },
   {
-    "title": "Project C",
+    "title": "Smart AR app - Tech Dr.",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Full stack development encompassing app creation, real-time data retrieval through .Net and RestAPI, and utilizing AI for data processing tasks.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://www.youtube.com/watch?v=JAjfumw1pN4&ab_channel=MOKKA",
     "source": "https://www.github.com"
   }
 ]
